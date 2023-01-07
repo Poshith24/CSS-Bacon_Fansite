@@ -1,0 +1,33 @@
+body{
+    background-color: powderblue;
+     
+}
+
+h1{
+    font-size: 200px;
+    color: red;
+    
+}
+
+.broccoli-img{
+    background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/* #id_selector{
+    background-color: aqua;
+} */
+
+#big{
+    font-size: 100px;
+}
+
+button:hover{
+    color:yellow;
+}
+a:hover{
+    color: yellow;
+}
